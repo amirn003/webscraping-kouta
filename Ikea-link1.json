@@ -1,0 +1,56 @@
+{
+  "data": {
+    "title": "EKET Rangement - blanc 35x35x35 cm",
+    "description": "EKET Rangement - blanc 35x35x35 cm. Un seul élément peut servir de rangement dans un espace retreint, ou servir de base pour une solution de rangement plus importante lorsque les besoins évoluent. L'armoire peut être placée directement sur le sol ou fixée au mur pour économiser de l'espace.",
+    "image": "https://www.ikea.com/fr/fr/images/products/eket-rangement-blanc__1212327_pe910600_s5.jpg",
+    "price": 20,
+    "shippingFees": null,
+    "currency": "EUR",
+    "isInStock": true,
+    "EAN13": null,
+    "ASIN": null,
+    "ISBN": null,
+    "color": null,
+    "brand": "IKEA",
+    "category": {
+      "name": "Étagère cube et cube de rangement",
+      "url": "https://www.ikea.com/fr/fr/cat/rangements-cubiques-55012/"
+    },
+    "categories": [
+      {
+        "name": "Produits",
+        "url": "https://www.ikea.com/fr/fr/cat/produits-products/"
+      },
+      {
+        "name": "Meubles",
+        "url": "https://www.ikea.com/fr/fr/cat/meubles-fu001/"
+      },
+      {
+        "name": "Bibliothèques et étagères",
+        "url": "https://www.ikea.com/fr/fr/cat/bibliotheques-et-etageres-st002/"
+      },
+      {
+        "name": "Étagère cube et cube de rangement",
+        "url": "https://www.ikea.com/fr/fr/cat/rangements-cubiques-55012/"
+      }
+    ],
+    "siteURL": "https://www.ikea.com/fr/fr/p/eket-rangement-blanc-80334603/",
+    "siteHtml": null,
+    "productHasVariations": null,
+    "statusCode": 200,
+    "isFinished": null,
+    "isDead": null,
+    "htmlLength": 469754,
+    "captchaFound": false,
+    "isHtmlPage": true,
+    "host": "www.ikea.com",
+    "images": [
+      "https://www.ikea.com/fr/fr/images/products/eket-rangement-blanc__1212327_pe910600_s5.jpg",
+      "https://www.ikea.com/fr/fr/images/products/eket-rangement-blanc__0732079_pe738561_s5.jpg",
+      "https://www.ikea.com/fr/fr/images/products/eket-rangement-blanc__0915075_pe784544_s5.jpg",
+      "https://www.ikea.com/fr/fr/images/products/eket-rangement-blanc__1330441_pe945679_s5.jpg",
+      "https://www.ikea.com/fr/fr/images/products/eket-rangement-blanc__0631841_pe695226_s5.jpg"
+    ],
+    "originalPrice": null
+  }
+}
